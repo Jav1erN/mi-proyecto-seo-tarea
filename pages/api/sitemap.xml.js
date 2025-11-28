@@ -10,8 +10,7 @@ export function getServerSideProps({ res }) {
     <url>
       <loc>https://mi-proyecto-seo-tarea.vercel.app/contacto</loc>
     </url>
-  </urlset>
-  `;
+  </urlset>`;
 
   res.setHeader("Content-Type", "application/xml");
   res.write(sitemap);
@@ -20,6 +19,6 @@ export function getServerSideProps({ res }) {
   return { props: {} };
 }
 
-export default function SiteMap() {
+export default function Sitemap() {
   return null;
 }

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mi-proyecto-seo-tarea.vercel.app/api/sitemap
+Sitemap: https://mi-proyecto-seo-tarea.vercel.app/sitemap.xml
