@@ -1,4 +1,5 @@
 const BASE_URL = "https://mi-proyecto-seo-tarea.vercel.app";
+
 const pagesFromDB = [
   { slug: "producto-1" },
   { slug: "producto-2" },
