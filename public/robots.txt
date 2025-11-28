@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mi-proyecto-seo.vercel.app/api/sitemap
+Sitemap: https://mi-proyecto-seo.vercel.app/api/sitemap-db
