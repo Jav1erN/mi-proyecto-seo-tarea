@@ -1,4 +1,4 @@
-const BASE_URL = "https://mi-proyecto-seo.vercel.app";
+const BASE_URL = "https://mi-proyecto-seo-tarea.vercel.app";
 
 export default function handler(req, res) {
   const urls = [
